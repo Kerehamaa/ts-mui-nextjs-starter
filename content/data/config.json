@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Documentation",
-                "url": "",
+                "url": "/doc",
                 "underline": "hover"
             }
         ]

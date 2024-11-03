@@ -17,7 +17,7 @@ sections:
         color: primary
       - type: Button
         label: More
-        url: /
+        url: /more
         size: large
         variant: outlined
         color: primary

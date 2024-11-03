@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Vocabulary
-        url: /
+        url: /vocab
         size: large
         variant: contained
         color: primary

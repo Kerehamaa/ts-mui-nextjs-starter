@@ -10,7 +10,7 @@ sections:
       Section', or using the sidebar.
     actions:
       - type: Button
-        label: Get Started
+        label: Vocabulary
         url: /
         size: large
         variant: contained

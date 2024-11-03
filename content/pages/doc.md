@@ -3,7 +3,7 @@ type: Page
 title: Māori
 sections:
   - type: HeroSection
-    title: Māori Vocabulary
+    title: Te Reo Māori
     subtitle: The section subtitle
     text: >-
       Add more sections by hovering above or below this one and clicking '+ Add
